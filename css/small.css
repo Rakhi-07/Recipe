@@ -1,0 +1,9 @@
+header nav{
+    flex-direction:column;
+}
+ header nav form{
+        width:80%;
+        margin-top:10px;
+       
+        
+    }
